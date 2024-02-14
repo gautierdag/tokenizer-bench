@@ -1,0 +1,7 @@
+tiktoken
+transformers
+datasets
+tokenizers>=0.14.0
+numpy
+tqdm
+sentencepiece
